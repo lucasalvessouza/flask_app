@@ -54,7 +54,7 @@ class ProductView(MethodView):
         return
  
  
-product_view =  ProductView.as_view('product_view')
+product_view = ProductView.as_view('product_view')
 app.add_url_rule(
     '/product/', view_func=product_view, methods=['GET', 'POST']
 )
