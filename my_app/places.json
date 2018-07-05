@@ -1,0 +1,247 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -19.9304347,
+               "lng" : -43.9290649
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9291500197085,
+                  "lng" : -43.9277981197085
+               },
+               "southwest" : {
+                  "lat" : -19.9318479802915,
+                  "lng" : -43.9304960802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "beca4cde27a2f1bd917bd0765d9aa7ab97155145",
+         "name" : "Petrobel Ltda",
+         "place_id" : "ChIJQzNRKOqZpgARjLB39w0fRVE",
+         "plus_code" : {
+            "compound_code" : "339C+R9 Belo Horizonte, State of Minas Gerais, Brazil",
+            "global_code" : "58GR339C+R9"
+         },
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAKxSuruPIdIkPxP2mzaXO1_ZBhZN-ff-gSD8S2hpQqTUxsBpxSzVTDkAnHwp7k9153JgYWpsEO88atIzjLTcRdHMeiFpVhqkbGgdUQE5kEXtiAwCnvkF3QOXaZ9U7SLqSEhCW2-cFtWFB5E556CS0w-txGhRLxdbPPcsoSWQ9uLUs8a2usWUuZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "Avenida Bernardo Monteiro, 1339 - Funcionários, Belo Horizonte"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -19.9328398,
+               "lng" : -43.92969280000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9316018197085,
+                  "lng" : -43.9283033697085
+               },
+               "southwest" : {
+                  "lat" : -19.9342997802915,
+                  "lng" : -43.9310013302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "baaa34ad9239779ae26de43acebdcafa5fd42b38",
+         "name" : "Ipiranga",
+         "place_id" : "ChIJt6F7G8KZpgARGiFJZhtiC50",
+         "plus_code" : {
+            "compound_code" : "338C+V4 Belo Horizonte, State of Minas Gerais, Brazil",
+            "global_code" : "58GR338C+V4"
+         },
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAMzt3KtrQkZiL4IsPp9LSJphFG2yg9j_vx0qPhhO-dlSXY8F9l6gJ3KqNG5ltxnHpJcgxhT720UnHsZq1Np5yLFpy242IibXdFGvbto1B-f1qPCNz-HTUICi9UUrQX9opEhBwU1T1IGcb5IR6vD318aFGGhR8yAofHBG2SsBZ1M36twp2SqkUKw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "Rua Gonçalves Dias, 506 - Funcionários, Belo Horizonte"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -19.9328576,
+               "lng" : -43.92971350000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9316145197085,
+                  "lng" : -43.92832541970851
+               },
+               "southwest" : {
+                  "lat" : -19.9343124802915,
+                  "lng" : -43.93102338029151
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "5bf522071f78120669b4c04040fb9a53906dd6ee",
+         "name" : "Com Combs Alex Ltda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109432670607568064214/photos\"\u003eAldo Gouvea Bragança\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFuaa9OGCdxYTV9rCQH9j8cwwHJSWwWO1HClBh9_LwZMiC_AsyJwn1FJAn4_voTXwHahCbaQoIGbywNQAcM1ca8ZutImRdf_ucKBejekxO9gqcd_uMMk9OsIxnhxYZGq2EhAwn-gSzMkA94ZqMo2l9HyvGhRx4EMswnqke1z7hMLthRymJSNBPg",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJHdGqFsKZpgAR_EFcy3UeW7I",
+         "plus_code" : {
+            "compound_code" : "338C+V4 Belo Horizonte, State of Minas Gerais, Brazil",
+            "global_code" : "58GR338C+V4"
+         },
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAoC2TpmeaevRsjSq-MkSGUXID57UJM_q6dmpWoWPjovgw7P5Gb2z9UjxBUoXiFlJ9Opf8o3DTiRGqfZUJGqV0oAQE1K5vjUozZlt4ASeaI4Ht4ITsOq1bEXTK6FCehnE0EhAINORm8Cin6w2GXC7I9YDsGhQ2FMnaAnArYlXjEzI3pP7kpSNzdA",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "Rua Gonçalves Dias, 520 - Funcionários, Belo Horizonte"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -19.932235,
+               "lng" : -43.92454650000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9308357197085,
+                  "lng" : -43.9232287197085
+               },
+               "southwest" : {
+                  "lat" : -19.9335336802915,
+                  "lng" : -43.9259266802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "af5fee88a79da754ae5032fbe3a4d3ae85a74be2",
+         "name" : "Hexa Empresa Com",
+         "place_id" : "ChIJtRtwMpWZpgAR2JezADUM7iY",
+         "plus_code" : {
+            "compound_code" : "339G+45 Belo Horizonte, State of Minas Gerais, Brazil",
+            "global_code" : "58GR339G+45"
+         },
+         "rating" : 5,
+         "reference" : "CmRRAAAAZddriDi_usrbCoFuTKxfPGdaghkOI9rou9WFHr92kBZQ2gryCq1TA01_whCduL1GYPdVuMo3RCRlGinPKzlz3bRso8xJno3lSQeEVsDDnhmNob7y-sbEO2-SY6kzArdSEhDfCLgc9X3V1LcZ3H-2sMVbGhTQ20U1GLvf-gd9ijJ6RMwzQIpevw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "Avenida Getúlio Vargas, 25 - Funcionários, Belo Horizonte"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -19.9315256,
+               "lng" : -43.928379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9304419697085,
+                  "lng" : -43.9271018197085
+               },
+               "southwest" : {
+                  "lat" : -19.9331399302915,
+                  "lng" : -43.9297997802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "1d7e06f7726384767bd905c9bde4edb627fa8034",
+         "name" : "Ipiranga",
+         "place_id" : "ChIJgxhMFOqZpgARUvRRSUCuEBo",
+         "plus_code" : {
+            "compound_code" : "339C+9J Belo Horizonte, State of Minas Gerais, Brazil",
+            "global_code" : "58GR339C+9J"
+         },
+         "reference" : "CmRRAAAA5rDYo5ZycqhePekkVKV5yeY_rwu619JnlKOtxXHzG7jdhSg-vLMJ00KghtukoTfxYtQn-mC-OwbgQ7Luxan-2bK5yQyTzLoBn1t8hQUzLPEF2L20HvYDm79GU_YffNnwEhCgAH2mgY4BQgrr5fUj0Y9sGhTRxo2LXcHRjS4uE64t_PO753uqVw",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "Rua Bernardo Guimarães, 410 - Funcionários, Belo Horizonte"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -19.9307116,
+               "lng" : -43.9287386
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.9293793697085,
+                  "lng" : -43.92739426970849
+               },
+               "southwest" : {
+                  "lat" : -19.9320773302915,
+                  "lng" : -43.93009223029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "id" : "ea24cb0156424486c19bae426770f440edd0db43",
+         "name" : "Br",
+         "place_id" : "ChIJvZywOuqZpgARgU0_2Gz1L_c",
+         "plus_code" : {
+            "compound_code" : "339C+PG Belo Horizonte, State of Minas Gerais, Brazil",
+            "global_code" : "58GR339C+PG"
+         },
+         "reference" : "CmRSAAAAnJ4455qnpA6Mnv2C49RQmOIXf8v5Ry8RBgwVyCCvJT42SwgXil2pI7Flk4EaBQ0m7zPtFYmaMyibacmBiR5E1gtTM-rQmDpc_ZTYeGZdn5m7F1a0vzwGWqaL5hGKSBAHEhDbeXPEMgrkODL3ARF8yBmbGhQ__y6DOKy3UOdkCc9DBkHBy_sk8g",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "point_of_interest", "establishment" ],
+         "vicinity" : "Rua dos Aimorés, 467 - Funcionários, Belo Horizonte"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -19.93041,
+               "lng" : -43.92907
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -19.92904806970849,
+                  "lng" : -43.9277999697085
+               },
+               "southwest" : {
+                  "lat" : -19.9317460302915,
+                  "lng" : -43.93049793029149
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1e6e843a3e9fad301a52948076c266f258062fcd",
+         "name" : "Petrobras",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101867438468984732270/photos\"\u003eGarcia Uber\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPfZGK9-qdkBpTXC769SBXMVxlBYWMA5vcUS5mWHaVvYnUsYmLIX33FdSB30IrLmwxX_LOw15li9m7TPUK5814mtksG-7rT17EDPEeFWO5kLbtDIo6WodnzOG_d2PhT6WEhDo4pGRP0-Lf6dpjgJCZbfzGhS3oMuuRLko3_xmvxsDObItQVXEMQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ90bVLuqZpgARm6nuI0VecOY",
+         "plus_code" : {
+            "compound_code" : "339C+R9 Belo Horizonte, State of Minas Gerais, Brazil",
+            "global_code" : "58GR339C+R9"
+         },
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAvZvhTihxwSw5DFoj4fevuEMoiezgNqVmzWqBddcZS6Nl-kOGvTX66AUA4NWQQu3pa1WflJhb7Yuc2q_BJIhVDC52yd_bNyxazDOnE1I-EOsYUVWbmrdi-jW7Y5rHLaMyEhB0vZiFQGk8hoHsSbzJoEAWGhQOaRfVbkF8IaklVxDAHl_RuGKiog",
+         "scope" : "GOOGLE",
+         "types" : [ "gas_station", "car_repair", "point_of_interest", "establishment" ],
+         "vicinity" : "Avenida Bernardo Monteiro, 1339 - Funcionários, Belo Horizonte"
+      }
+   ],
+   "status" : "OK"
+}
